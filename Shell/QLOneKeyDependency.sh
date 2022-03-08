@@ -30,7 +30,7 @@ echo
 sleep 3
 echo
 echo
-npm config set registry https://registry.npm.taobao.org
+npm config set registry https://registry.npmjs.org
 cd /ql
 npm install -g npm
 cd /ql
